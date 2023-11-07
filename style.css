@@ -1,0 +1,102 @@
+p#Full {border: 1px solid black; width: 200px; padding: 10px 15px; text-align: left;}
+p#Red {border-bottom: 1px solid red; width: 200px; padding: 10px 15px}
+p#Round {border-radius: 25px; border-style: solid; width: 200px; padding: 10px 15px}
+p#Blue {background-color: aqua; border-left: blue; border-left: 5px; border-left: solid; width:200px; padding: 10px 15px}
+
+.google
+{
+    margin: auto;
+    padding-top: 250px;
+}
+.image
+{
+    width: 300px;
+    margin: auto;
+    
+}
+.bar
+{
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 600px;
+    margin:auto;
+}
+.bar input
+{
+    border: none;
+    color: rgba(0,0,0,0.25);
+    width: 400px;
+    padding: 10px 5px;
+
+}
+.buttons
+{
+    width: 250px;
+    margin: auto;
+    padding-top: 20px;
+    padding-right: 10px;
+}
+#glass {width: 20px; border-style:none; border-radius: 5px}
+#mic {width: 20px}
+#cam {width: 20px}
+#GPT {width: 20px}
+.stanLee
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.stanLee .fp
+{
+    width: 100%;
+    height: 1000px;
+    background-image: url(https://assets1.ignimgs.com/2018/11/12/stanlee-blogroll-1542060102297_160w.jpg?width=1280);
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+}
+.stanLee .fp .tele
+{
+    background-color: rgb(175, 2, 2);
+    font-size: xx-large;
+    color: white;
+    height: 40px;
+}
+.stanLee .fp a:link
+{
+    color: white;
+}
+.stanLee .fp a:visited
+{
+    color: white;
+}
+.stan img
+{
+    width: 400px;
+    vertical-align: auto ;
+    padding-right: 30px;
+}
+#AboutImg
+{
+    text-align: right;
+}
+.about
+{
+    width: 66.66666666666%;
+}
+.stanLee td
+{
+    width: 50%;
+}
+.stanLee table
+{
+    border-width: 10px;
+    border-color: darkgrey;
+    border-style: ridge;
+}
+.stanLee #title
+{
+    font-size: xx-large;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
